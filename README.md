@@ -17,7 +17,7 @@ bin ip : 192.168.1.212
 
 ## phòng số 3
 
-mac address:
+mac address:50:0f:f5:50:39:48
 
 bin ip : 192.168.1.213
 
