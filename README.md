@@ -39,7 +39,7 @@ bin ip : 192.168.1.214
 
 ## phòng số 5
 
-mac address: 
+mac address: cc:2d:21:ff:43:08
 
 bin ip : 192.168.1.215
 
