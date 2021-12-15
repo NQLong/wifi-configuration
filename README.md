@@ -31,7 +31,7 @@ bin ip : 192.168.1.213
 
 ## phòng số 4
 
-mac address:
+mac address:50:0f:f5:50:39:10
 
 bin ip : 192.168.1.214
 
