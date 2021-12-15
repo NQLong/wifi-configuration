@@ -1,5 +1,12 @@
 # wifi-configuration
 
+## home password
+
+ZTEGC88BAF3C
+
+## nha tro password
+
+ZTEGC88BB0CC
 
 ## phòng số 1
 
