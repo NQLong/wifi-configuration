@@ -3,14 +3,14 @@
 
 ## phòng số 1
 
-mac address:
+mac address:50:0f:f5:50:39:38
 
 bin ip : 192.168.1.211
 
 
 ## phòng số 2
 
-mac address:
+mac address: c0:25:e9:49:93:87	
 
 bin ip : 192.168.1.212
 
