@@ -4,6 +4,8 @@
 
 ZTEGC88BAF3C
 
+ZTEGC1D7327F
+
 ## nha tro password
 
 ZTEGC88BB0CC
